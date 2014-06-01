@@ -1,0 +1,31 @@
+﻿VeriFone Omni 3750 Terminal Transaction Response
+
+------------------------------------------------
+
+
+
+Possible values for transaction result are:
+
+
+
+0: OK
+
+1: Not OK
+
+2: Valuta wrong
+
+3: Product information wrong
+
+4: Price/Litre check failed
+
+5: Total amount not equal to sum of subtotals
+
+6: Syntax Error, transaction failed
+
+7: Amount not allowed
+
+8: Amount too high (» 99999, 99)
+
+9: Invalid Message Version Number
+
+A: Trx still busy with (loyalty) transaction

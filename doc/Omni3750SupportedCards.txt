@@ -1,0 +1,73 @@
+﻿VeriFone Omni 3750 Terminal Transaction Response
+
+------------------------------------------------
+
+
+
+Possible values for type of card (issuer info) are:
+
+
+
+00: No cardswipe
+
+Space: Bancontact / Mister Cash
+
+EC: Master Card
+
+VI: Visa
+
+MX: American Express
+
+DC: Diners Club
+
+JC: JCB card
+
+CC: Comfort Card
+
+MA: Maestro
+
+AU: Aurora
+
+
+
+Petrol cards:
+
+
+
+LK: Local Card (05)
+
+DK: DKV (06)
+
+TC: Travelcard (08)
+
+UT: UTA (12)
+
+FN: FINA National (14)
+
+RT: Routex (18)
+
+AC: Actomat (19)
+
+OK: OK creditcard (21)
+
+Q8: Q8 creditcard (22)
+
+ES: Euro Shell card (24)
+
+SC: Shell card (25)
+
+MT: Multitank card (26)
+
+MF: Mobil Fleet card (31)
+
+CC: Comfort Card NL (33)
+
+ET: Eurotrafic (35 or 42)
+
+UL: Ultragas (37)
+
+TE: Texaco (11, 13, 29)
+
+BE: DC Berkel (09)
+
+LM: Lomo (38)
